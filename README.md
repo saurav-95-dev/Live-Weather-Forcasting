@@ -25,7 +25,7 @@ None
 
 
 #### TECHNOLOGIES :
-HTML , CSS , Javascript
+HTML , CSS , Javascript , DOM Manipulation
 
 #### CONCEPTS AND TECHNIQUES :
 Promises , API Calling , DOM Manipulation , gettingCurrentLocation .
